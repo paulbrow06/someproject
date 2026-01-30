@@ -1,2 +1,1 @@
-# Ola
-Hi1
+Nginx Project Sample
